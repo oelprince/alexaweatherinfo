@@ -1,4 +1,4 @@
-# alexaweatherinfo
+# Allergy Report Privacy Policy
 
 Last Updated: October 08, 2017
 
